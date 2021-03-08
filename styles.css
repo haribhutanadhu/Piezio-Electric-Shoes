@@ -1,0 +1,73 @@
+body{
+  line-height: 1.7rem;
+}
+h1{
+  color: #fff;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 3rem;
+}
+p{
+  color: #bbe1fa;
+  font-size: 1rem;
+}
+h2 {
+  color: #005086;
+  font-size: 2rem;
+  font-weight: bold;
+}
+h3 {
+  color: #fff;
+  padding: 5% 10%;
+  font-weight: bold;
+}
+#title-section{
+  background-color: #005086;
+}
+.title-image{
+  width: 75%;
+  height: auto;
+  padding: 0 10% 5%;
+
+}
+.title-text{
+  padding: 0 10% 5%;
+}
+.navbar{
+  padding-bottom: 4%;
+}
+.navbar-brand{
+  padding: 2%;
+  font-size: 2rem;
+  font-family: 'Dancing Script', cursive;
+}
+.nav-item{
+  margin-right: 2rem;
+  color: #bbe1fa;
+}
+#section2{
+  padding: 5% 10%;
+  text-align: center;
+}
+.section2-p{
+  color: #596e79;
+}
+#features{
+  background-color:  #005086;
+  text-align: center;
+}
+.features-image{
+  width: 250px;
+  height: auto;
+  padding: 0 0 10%;
+}
+.contact {
+  text-align: center;
+  background-color: #fff;
+  line-height: 2.5;
+  padding: 3%;
+}
+.contact-para{
+  color: #596e79;
+}
+.pointers{
+}

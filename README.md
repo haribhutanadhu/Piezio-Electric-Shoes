@@ -1,2 +1,3 @@
-##Link
-https://haribhutanadhu.github.io/Piezio-Electric-Shoes/
+# Piezoelectic shoes
+
+View website here: https://haribhutanadhu.github.io/Piezio-Electric-Shoes/
